@@ -30,8 +30,8 @@
     },
     {
     "id": 4,
-      "name": "มอกค่า",
-      "price": 55,
+      "name": "มอคค่า",
+      "price": 40,
       "emoji": "𓍢ִ໋☕️",
       "available": true,
       "tags": ["กาแฟ", "เย็น"]
