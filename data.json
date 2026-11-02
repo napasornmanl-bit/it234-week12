@@ -1,6 +1,6 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
+  "shopName": "Happy cup",
+  "owner": "นภสร",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
   "products": [
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+    "id": 4,
+      "name": "มอกค่า",
+      "price": 55,
+      "emoji": "𓍢ִ໋☕️",
+      "available": true,
+      "tags": ["กาแฟ", "เย็น"]
     }
   ]
 }
